@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="AM-AI_Front/AM-AI_Front-InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1" build-num="17B55"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>AM-AI</source>
+        <target state="new">AM-AI</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>AM-AI_Front</source>
+        <target state="new">AM-AI_Front</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>We need camera access to photograph issues for diagnosis</source>
+        <target state="new">We need camera access to photograph issues for diagnosis</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AM-AI_Front/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.1" build-num="17B55"/>
+    </header>
+    <body>
+      <trans-unit id="%lld%%" xml:space="preserve">
+        <source>%lld%%</source>
+        <target state="new">%lld%%</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%lld." xml:space="preserve">
+        <source>%lld.</source>
+        <target state="new">%lld.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1.0.0" xml:space="preserve">
+        <source>1.0.0</source>
+        <target state="new">1.0.0</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="A&amp;M AI Diagnosis" xml:space="preserve">
+        <source>A&amp;M AI Diagnosis</source>
+        <target state="new">A&amp;M AI Diagnosis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AR Guidance Available" xml:space="preserve">
+        <source>AR Guidance Available</source>
+        <target state="new">AR Guidance Available</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Account" xml:space="preserve">
+        <source>Account</source>
+        <target state="new">Account</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Admin Account" xml:space="preserve">
+        <source>Admin Account</source>
+        <target state="new">Admin Account</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Analyzing..." xml:space="preserve">
+        <source>Analyzing...</source>
+        <target state="new">Analyzing...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="App Information" xml:space="preserve">
+        <source>App Information</source>
+        <target state="new">App Information</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target state="new">Cancel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose Different Image" xml:space="preserve">
+        <source>Choose Different Image</source>
+        <target state="new">Choose Different Image</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose from Library" xml:space="preserve">
+        <source>Choose from Library</source>
+        <target state="new">Choose from Library</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Diagnose" xml:space="preserve">
+        <source>Diagnose</source>
+        <target state="new">Diagnose</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Diagnosis" xml:space="preserve">
+        <source>Diagnosis</source>
+        <target state="new">Diagnosis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Diagnosis Results" xml:space="preserve">
+        <source>Diagnosis Results</source>
+        <target state="new">Diagnosis Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do not drive" xml:space="preserve">
+        <source>Do not drive</source>
+        <target state="new">Do not drive</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Done" xml:space="preserve">
+        <source>Done</source>
+        <target state="new">Done</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Email" xml:space="preserve">
+        <source>Email</source>
+        <target state="new">Email</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Error" xml:space="preserve">
+        <source>Error</source>
+        <target state="new">Error</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Final Diagnosis:" xml:space="preserve">
+        <source>Final Diagnosis:</source>
+        <target state="new">Final Diagnosis:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Get Diagnosis" xml:space="preserve">
+        <source>Get Diagnosis</source>
+        <target state="new">Get Diagnosis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="History" xml:space="preserve">
+        <source>History</source>
+        <target state="new">History</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Intelligent diagnostics for cars, boats, and homes" xml:space="preserve">
+        <source>Intelligent diagnostics for cars, boats, and homes</source>
+        <target state="new">Intelligent diagnostics for cars, boats, and homes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Loading history..." xml:space="preserve">
+        <source>Loading history...</source>
+        <target state="new">Loading history...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Logging in..." xml:space="preserve">
+        <source>Logging in...</source>
+        <target state="new">Logging in...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Login" xml:space="preserve">
+        <source>Login</source>
+        <target state="new">Login</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Login Failed" xml:space="preserve">
+        <source>Login Failed</source>
+        <target state="new">Login Failed</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Logout" xml:space="preserve">
+        <source>Logout</source>
+        <target state="new">Logout</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No diagnosis history yet" xml:space="preserve">
+        <source>No diagnosis history yet</source>
+        <target state="new">No diagnosis history yet</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No specific instructions available for this diagnosis." xml:space="preserve">
+        <source>No specific instructions available for this diagnosis.</source>
+        <target state="new">No specific instructions available for this diagnosis.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="new">OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Password" xml:space="preserve">
+        <source>Password</source>
+        <target state="new">Password</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Permission Required" xml:space="preserve">
+        <source>Permission Required</source>
+        <target state="new">Permission Required</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Powered by A&amp;M AI" xml:space="preserve">
+        <source>Powered by A&amp;M AI</source>
+        <target state="new">Powered by A&amp;M AI</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Privacy Policy" xml:space="preserve">
+        <source>Privacy Policy</source>
+        <target state="new">Privacy Policy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recommended Products" xml:space="preserve">
+        <source>Recommended Products</source>
+        <target state="new">Recommended Products</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repair Instructions" xml:space="preserve">
+        <source>Repair Instructions</source>
+        <target state="new">Repair Instructions</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Safe to drive" xml:space="preserve">
+        <source>Safe to drive</source>
+        <target state="new">Safe to drive</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Severity: %@" xml:space="preserve">
+        <source>Severity: %@</source>
+        <target state="new">Severity: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Take Photo" xml:space="preserve">
+        <source>Take Photo</source>
+        <target state="new">Take Photo</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Take or select a photo of the issue" xml:space="preserve">
+        <source>Take or select a photo of the issue</source>
+        <target state="new">Take or select a photo of the issue</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Take your first photo to get started" xml:space="preserve">
+        <source>Take your first photo to get started</source>
+        <target state="new">Take your first photo to get started</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version" xml:space="preserve">
+        <source>Version</source>
+        <target state="new">Version</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View 3D models and AR instructions for this repair" xml:space="preserve">
+        <source>View 3D models and AR instructions for this repair</source>
+        <target state="new">View 3D models and AR instructions for this repair</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="View in AR" xml:space="preserve">
+        <source>View in AR</source>
+        <target state="new">View in AR</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

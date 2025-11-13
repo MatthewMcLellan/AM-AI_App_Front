@@ -1,0 +1,144 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld." : {
+
+    },
+    "%lld%%" : {
+
+    },
+    "1.0.0" : {
+
+    },
+    "A&M AI Diagnosis" : {
+
+    },
+    "Account" : {
+
+    },
+    "Admin Account" : {
+
+    },
+    "Analyzing..." : {
+
+    },
+    "App Information" : {
+
+    },
+    "AR Guidance Available" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Choose Different Image" : {
+
+    },
+    "Choose from Library" : {
+
+    },
+    "Diagnose" : {
+
+    },
+    "Diagnosis" : {
+
+    },
+    "Diagnosis Results" : {
+
+    },
+    "Do not drive" : {
+
+    },
+    "Done" : {
+
+    },
+    "Email" : {
+
+    },
+    "Error" : {
+
+    },
+    "Final Diagnosis:" : {
+
+    },
+    "Get Diagnosis" : {
+
+    },
+    "History" : {
+
+    },
+    "Intelligent diagnostics for cars, boats, and homes" : {
+
+    },
+    "Loading history..." : {
+
+    },
+    "Logging in..." : {
+
+    },
+    "Login" : {
+
+    },
+    "Login Failed" : {
+
+    },
+    "Logout" : {
+
+    },
+    "No diagnosis history yet" : {
+
+    },
+    "No specific instructions available for this diagnosis." : {
+
+    },
+    "OK" : {
+
+    },
+    "Password" : {
+
+    },
+    "Permission Required" : {
+
+    },
+    "Powered by A&M AI" : {
+
+    },
+    "Privacy Policy" : {
+
+    },
+    "Recommended Products" : {
+
+    },
+    "Repair Instructions" : {
+
+    },
+    "Safe to drive" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Severity: %@" : {
+
+    },
+    "Take or select a photo of the issue" : {
+
+    },
+    "Take Photo" : {
+
+    },
+    "Take your first photo to get started" : {
+
+    },
+    "Version" : {
+
+    },
+    "View 3D models and AR instructions for this repair" : {
+
+    },
+    "View in AR" : {
+
+    }
+  },
+  "version" : "1.1"
+}
