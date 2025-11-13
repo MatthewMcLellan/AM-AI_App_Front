@@ -1,0 +1,1 @@
+../../InstallationBuildProductsLocation/Applications/AM-AI_Front.app

@@ -1,0 +1,5 @@
+battery_failure
+fuse_blown
+sensor_failure
+starter_failure
+wiring_short

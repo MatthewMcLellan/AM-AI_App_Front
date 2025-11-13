@@ -1,0 +1,5 @@
+engine_knock
+loss_of_power
+poor_acceleration
+rough_idle
+stalling

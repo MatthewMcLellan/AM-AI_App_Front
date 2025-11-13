@@ -1,0 +1,5 @@
+flashing_damage
+gutter_damage
+ice_dam
+missing_shingles
+roof_leak

@@ -1,0 +1,10 @@
+{
+  "/Users/matthewmclellan/Downloads/SwiftKeychainWrapper-develop/SwiftKeychainWrapper/KeychainItemAccessibility.swift" : {
+    "abi-baseline-json" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphoneos/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper.abi.json",
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphoneos/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphoneos/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary.dia",
+    "objc-header" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphoneos/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-Swift.h",
+    "swiftdoc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphoneos/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper.swiftdoc",
+    "swiftsourceinfo" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphoneos/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper.swiftsourceinfo"
+  }
+}

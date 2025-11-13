@@ -1,0 +1,4 @@
+module SDWebImage {
+umbrella header "/Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImage.h"
+export *
+}

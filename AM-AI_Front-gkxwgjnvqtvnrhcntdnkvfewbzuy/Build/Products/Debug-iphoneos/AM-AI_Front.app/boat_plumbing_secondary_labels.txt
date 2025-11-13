@@ -1,0 +1,5 @@
+no_water_pressure
+shower_sump_failure
+toilet_not_flowing
+washing_machine_failure
+water_heater_failure

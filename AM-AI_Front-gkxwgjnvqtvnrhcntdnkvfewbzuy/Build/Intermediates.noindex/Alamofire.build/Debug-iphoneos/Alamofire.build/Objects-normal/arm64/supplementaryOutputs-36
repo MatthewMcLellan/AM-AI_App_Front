@@ -1,0 +1,30 @@
+{
+  "/Users/matthewmclellan/Downloads/Alamofire-5.10.2/Source/Alamofire.swift" : {
+    "const-values" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.swiftconstvalues",
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.dia",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.o",
+    "swift-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Alamofire.swiftdeps"
+  },
+  "/Users/matthewmclellan/Downloads/Alamofire-5.10.2/Source/Core/AFError.swift" : {
+    "const-values" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.swiftconstvalues",
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.dia",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.o",
+    "swift-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/AFError.swiftdeps"
+  },
+  "/Users/matthewmclellan/Downloads/Alamofire-5.10.2/Source/Core/DataRequest.swift" : {
+    "const-values" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DataRequest.swiftconstvalues",
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DataRequest.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DataRequest.dia",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DataRequest.o",
+    "swift-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/DataRequest.swiftdeps"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/Alamofire.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps"
+  }
+}

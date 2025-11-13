@@ -1,0 +1,10 @@
+{
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/AM_AI_FrontApp.swift" : {
+    "abi-baseline-json" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_Front.abi.json",
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary.dia",
+    "objc-header" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_Front-Swift.h",
+    "swiftdoc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_Front.swiftdoc",
+    "swiftsourceinfo" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_Front.swiftsourceinfo"
+  }
+}

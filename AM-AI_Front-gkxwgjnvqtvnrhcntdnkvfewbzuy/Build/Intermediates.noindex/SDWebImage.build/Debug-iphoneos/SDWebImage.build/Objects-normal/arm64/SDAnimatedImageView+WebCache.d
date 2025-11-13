@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageView+WebCache.m \
+  /Users/matthewmclellan/Neural\ Net/V3\ Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/SDWebImage.build/Debug-iphoneos/SDWebImage.build/DerivedSources/resource_bundle_accessor.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageView+WebCache.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImageView.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageCompat.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImage.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDImageCoder.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/NSData+ImageContentType.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDImageFrame.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDAnimatedImagePlayer.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDImageTransformer.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/UIImage+Transform.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageManager.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageOperation.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDImageCacheDefine.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageDefine.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDImageLoader.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageCacheKeyFilter.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageCacheSerializer.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageOptionsProcessor.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/UIView+WebCache.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageTransition.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDImageCache.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDImageCacheConfig.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDMemoryCache.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDDiskCache.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/SDWebImageIndicator.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/UIView+WebCacheOperation.h \
+  /Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImage/Core/UIView+WebCacheState.h

@@ -1,0 +1,19 @@
+{
+  "" : {
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphonesimulator/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphonesimulator/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary.dia",
+    "emit-module-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphonesimulator/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphonesimulator/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary-emit-module.dia",
+    "pch" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphonesimulator/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/SwiftKeychainWrapper.build/Debug-iphonesimulator/SwiftKeychainWrapper.build/Objects-normal/arm64/SwiftKeychainWrapper-primary.swiftdeps"
+  },
+  "/Users/matthewmclellan/Downloads/SwiftKeychainWrapper-develop/SwiftKeychainWrapper/KeychainItemAccessibility.swift" : {
+
+  },
+  "/Users/matthewmclellan/Downloads/SwiftKeychainWrapper-develop/SwiftKeychainWrapper/KeychainWrapper.swift" : {
+
+  },
+  "/Users/matthewmclellan/Downloads/SwiftKeychainWrapper-develop/SwiftKeychainWrapper/KeychainWrapperSubscript.swift" : {
+
+  }
+}

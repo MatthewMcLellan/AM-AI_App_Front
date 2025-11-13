@@ -1,0 +1,5 @@
+coolant_leak
+heat_exchanger_failure
+impeller_failure
+raw_water_intake_blocked
+thermostat_stuck

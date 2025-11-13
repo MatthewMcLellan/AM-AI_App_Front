@@ -1,0 +1,5 @@
+carpet_animal_stain
+carpet_care
+carpet_stain
+dirty_carpet
+wet_carpet

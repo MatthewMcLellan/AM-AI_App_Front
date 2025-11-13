@@ -1,0 +1,6 @@
+broken_garbage_disposal
+clogged_drain
+leaking_pipe
+low_water_pressure
+running_toilet
+water_heater_failure

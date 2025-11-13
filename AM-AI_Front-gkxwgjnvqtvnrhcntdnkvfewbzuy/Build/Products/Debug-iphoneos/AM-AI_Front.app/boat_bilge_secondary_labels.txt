@@ -1,0 +1,5 @@
+clogged_intake
+discharge_blocked
+float_switch_stuck
+pump_failure
+wiring_issue

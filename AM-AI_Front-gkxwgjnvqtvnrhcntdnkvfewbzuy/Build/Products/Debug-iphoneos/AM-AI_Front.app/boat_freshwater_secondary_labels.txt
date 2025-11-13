@@ -1,0 +1,8 @@
+boost_pump_failure
+fault_reset
+fresh_water_flush
+high_pressure_pump_failure
+low_pressure_pump_failure
+osmosis_fault
+reverse_osmosis_failure
+salon_sink_failure

@@ -1,0 +1,91 @@
+{
+  "" : {
+    "const-values" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary.swiftconstvalues",
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary.dia",
+    "emit-module-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary-emit-module.dia",
+    "pch" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM-AI_Front-primary.swiftdeps"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/DerivedSources/CoreDataGenerated/AM_AI_Front/AM_AI_Front+CoreDataModel.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_Front+CoreDataModel.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_Front+CoreDataModel.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_Front+CoreDataModel.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/DerivedSources/CoreDataGenerated/AM_AI_Front/Item+CoreDataClass.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Item+CoreDataClass.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Item+CoreDataClass.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Item+CoreDataClass.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/DerivedSources/CoreDataGenerated/AM_AI_Front/Item+CoreDataProperties.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Item+CoreDataProperties.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Item+CoreDataProperties.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Item+CoreDataProperties.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/AM_AI_FrontApp.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_FrontApp.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_FrontApp.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AM_AI_FrontApp.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/APIService.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/APIService.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/APIService.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/APIService.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/AuthenticationManager.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AuthenticationManager.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AuthenticationManager.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/AuthenticationManager.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/CameraManager.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/CameraManager.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/CameraManager.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/CameraManager.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/CameraView.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/CameraView.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/CameraView.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/CameraView.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/ContentView.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/DiagnosisAPIService.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisAPIService.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisAPIService.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisAPIService.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/DiagnosisModels.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisModels.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisModels.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisModels.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/DiagnosisResultsView.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisResultsView.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisResultsView.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/DiagnosisResultsView.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/LoginView.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/LoginView.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/MainTabView.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/MainTabView.o"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/Persistence.swift" : {
+    "index-unit-output-path" : "/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Persistence.o",
+    "llvm-bc" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Persistence.bc",
+    "object" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Build/Intermediates.noindex/ArchiveIntermediates/AM-AI_Front/IntermediateBuildFilesPath/AM-AI_Front.build/Release-iphoneos/AM-AI_Front.build/Objects-normal/arm64/Persistence.o"
+  }
+}

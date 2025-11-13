@@ -1,0 +1,8 @@
+bank_failure
+engines_not_charging
+error_codes_displayed
+float_charge_level
+inverter_fault
+no_charge
+no_shore_power
+unable_to_charge

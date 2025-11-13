@@ -1,0 +1,7 @@
+alternator_failure
+bad_breaker_panel
+battery_dead
+fuse_blown
+outlet_failure
+switch_failure
+wiring_corrosion

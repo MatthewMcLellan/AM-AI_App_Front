@@ -1,0 +1,5 @@
+chartplotter_malfunction
+compass_error
+depth_sounder_issue
+gps_failure
+radio_failure

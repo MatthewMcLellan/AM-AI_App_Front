@@ -1,0 +1,5 @@
+beam_damage
+ceiling_sag
+floor_sag
+joist_damage
+wall_crack

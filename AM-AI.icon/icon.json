@@ -1,10 +1,5 @@
 {
-  "fill" : {
-    "linear-gradient" : [
-      "extended-gray:1.00000,1.00000",
-      "extended-gray:0.75000,1.00000"
-    ]
-  },
+  "fill" : "automatic",
   "groups" : [
     {
       "blur-material" : null,
@@ -20,11 +15,12 @@
       ],
       "lighting" : "combined",
       "shadow" : {
-        "kind" : "neutral",
+        "kind" : "layer-color",
         "opacity" : 0.5
       },
+      "specular" : true,
       "translucency" : {
-        "enabled" : true,
+        "enabled" : false,
         "value" : 0.5
       }
     }

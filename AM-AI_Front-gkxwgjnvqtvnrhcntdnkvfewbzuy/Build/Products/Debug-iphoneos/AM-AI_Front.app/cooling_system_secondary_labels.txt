@@ -1,0 +1,5 @@
+coolant_leak
+fan_failure
+radiator_leak
+thermostat_failure
+water_pump_failure

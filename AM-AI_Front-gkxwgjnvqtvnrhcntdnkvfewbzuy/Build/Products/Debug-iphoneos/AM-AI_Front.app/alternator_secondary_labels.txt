@@ -1,0 +1,5 @@
+bad_diode
+belt_issues
+voltage_regulator_failure
+wiring_problems
+worn_bearings

@@ -1,0 +1,104 @@
+{
+  "source": "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_Front/CameraView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Diagnosis",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Permission Required",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Error",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Different Image",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analyzing...",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Diagnosis",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Take or select a photo of the issue",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Take Photo",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose from Library",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 102
+        }
+      }
+    ]
+  },
+  "version": 1
+}

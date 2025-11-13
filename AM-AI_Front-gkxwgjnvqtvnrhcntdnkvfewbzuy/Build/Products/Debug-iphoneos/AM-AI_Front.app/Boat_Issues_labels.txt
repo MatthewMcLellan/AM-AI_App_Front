@@ -1,0 +1,15 @@
+battery
+bilge
+cooling
+electrical
+engine
+freshwater_system
+fuel
+hull
+interior_carpets
+inverter_failure
+navigation
+plumbing_systems
+propeller
+steering
+water_ingress

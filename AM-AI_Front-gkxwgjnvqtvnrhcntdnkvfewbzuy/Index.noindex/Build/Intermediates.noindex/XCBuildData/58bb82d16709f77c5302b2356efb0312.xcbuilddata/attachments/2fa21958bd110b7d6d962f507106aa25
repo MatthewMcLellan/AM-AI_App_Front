@@ -1,0 +1,16 @@
+{
+  "" : {
+    "dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_FrontUITests.build/Objects-normal/arm64/AM-AI_FrontUITests-primary.d",
+    "diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_FrontUITests.build/Objects-normal/arm64/AM-AI_FrontUITests-primary.dia",
+    "emit-module-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_FrontUITests.build/Objects-normal/arm64/AM-AI_FrontUITests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_FrontUITests.build/Objects-normal/arm64/AM-AI_FrontUITests-primary-emit-module.dia",
+    "pch" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_FrontUITests.build/Objects-normal/arm64/AM-AI_FrontUITests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/Index.noindex/Build/Intermediates.noindex/AM-AI_Front.build/Debug-iphoneos/AM-AI_FrontUITests.build/Objects-normal/arm64/AM-AI_FrontUITests-primary.swiftdeps"
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_FrontUITests/AM_AI_FrontUITests.swift" : {
+
+  },
+  "/Users/matthewmclellan/Neural Net/V3 Training/AM-AI_App_Front/AM-AI_Front/AM-AI_FrontUITests/AM_AI_FrontUITestsLaunchTests.swift" : {
+
+  }
+}

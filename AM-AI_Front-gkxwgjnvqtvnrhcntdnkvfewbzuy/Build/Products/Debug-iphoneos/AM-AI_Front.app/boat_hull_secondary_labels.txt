@@ -1,0 +1,7 @@
+blistering
+crack
+gelcoat_damage
+impact_damage
+osmosis
+sun_faded
+uv_damage

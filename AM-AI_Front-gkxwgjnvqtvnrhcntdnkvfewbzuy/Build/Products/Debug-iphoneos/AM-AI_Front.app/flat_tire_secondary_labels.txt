@@ -1,0 +1,5 @@
+bead_leak
+puncture
+sidewall_damage
+valve_stem_leak
+worn_tread
