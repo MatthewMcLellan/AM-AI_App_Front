@@ -1,2 +1,0 @@
-cable_install
-router_install

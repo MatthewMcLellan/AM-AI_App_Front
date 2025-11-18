@@ -1,5 +1,0 @@
-hard_shifting
-slipping_gears
-solenoid_failure
-torque_converter_failure
-transmission_fluid_leak

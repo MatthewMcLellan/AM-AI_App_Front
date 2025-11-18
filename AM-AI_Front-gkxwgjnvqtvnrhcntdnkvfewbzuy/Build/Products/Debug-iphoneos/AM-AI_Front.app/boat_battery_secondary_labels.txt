@@ -1,7 +1,0 @@
-battery_age
-battery_dead
-corrosion
-loose_connections
-low_internal_resistance
-sulfation
-unable_to_charge

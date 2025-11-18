@@ -1,4 +1,0 @@
-module SDWebImageMapKit {
-umbrella header "/Users/matthewmclellan/Library/Developer/Xcode/DerivedData/AM-AI_Front-gkxwgjnvqtvnrhcntdnkvfewbzuy/SourcePackages/checkouts/SDWebImage/SDWebImageMapKit/include/SDWebImageMapKit/SDWebImageMapKit.h"
-export *
-}

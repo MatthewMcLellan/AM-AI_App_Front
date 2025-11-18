@@ -1,5 +1,0 @@
-bumper_damage
-dent
-paint_damage
-rust
-scratch

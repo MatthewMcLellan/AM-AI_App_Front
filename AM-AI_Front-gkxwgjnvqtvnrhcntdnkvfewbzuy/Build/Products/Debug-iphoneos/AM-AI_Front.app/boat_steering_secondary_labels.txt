@@ -1,7 +1,0 @@
-cable_failure
-hydraulic_leak
-loose_steering
-pump_failure
-stiff_steering
-misalignment
-controls_transfer

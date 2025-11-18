@@ -1,6 +1,0 @@
-bimini_leak
-clogged_drain
-doors_not_sealing
-porthole_seal_failure
-shower_backflowing
-window_leak

@@ -1,5 +1,0 @@
-basement_flooding
-ceiling_water_stain
-floor_water_damage
-mold_growth
-wall_water_damage

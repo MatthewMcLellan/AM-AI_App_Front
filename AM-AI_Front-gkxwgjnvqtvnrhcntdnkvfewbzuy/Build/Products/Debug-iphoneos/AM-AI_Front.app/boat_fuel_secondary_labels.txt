@@ -1,8 +1,0 @@
-air_in_fuel_line
-carburetor_issues
-clogged_filter
-floscan_issues
-fuel_contamination
-fuel_line_leak
-fuel_pump_failure
-high_burn_rate

@@ -1,5 +1,0 @@
-clogged_fuel_filter
-empty_tank
-fuel_injector_issues
-fuel_leak
-fuel_pump_failure

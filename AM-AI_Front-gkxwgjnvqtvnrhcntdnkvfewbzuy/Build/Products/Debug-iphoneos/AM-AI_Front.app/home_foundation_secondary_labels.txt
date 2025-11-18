@@ -1,5 +1,0 @@
-bowing_wall
-crack_in_foundation
-moisture_intrusion
-settling
-sinking_slab

@@ -1,5 +1,0 @@
-air_leak
-missing_insulation
-moisture_damage
-pest_damage
-poor_attic_insulation

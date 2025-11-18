@@ -1,7 +1,0 @@
-circuit_breaker_trip
-flickering_lights
-light_switch_malfunction
-outlet_failure
-power_surge
-reset_gfci
-smoke_detector

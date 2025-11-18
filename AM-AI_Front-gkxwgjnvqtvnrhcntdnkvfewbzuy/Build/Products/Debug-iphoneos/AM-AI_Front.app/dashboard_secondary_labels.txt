@@ -1,5 +1,0 @@
-abs_light
-airbag_light
-battery_light
-check_engine_light
-oil_pressure_light

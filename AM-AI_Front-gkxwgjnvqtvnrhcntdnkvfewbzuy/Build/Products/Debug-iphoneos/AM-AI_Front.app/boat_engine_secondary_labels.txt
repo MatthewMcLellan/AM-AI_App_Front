@@ -1,9 +1,0 @@
-black_smoke
-blue_smoke
-engine_alarms
-loss_of_power
-no_start
-oil_leak
-overheating
-rough_running
-white_smoke

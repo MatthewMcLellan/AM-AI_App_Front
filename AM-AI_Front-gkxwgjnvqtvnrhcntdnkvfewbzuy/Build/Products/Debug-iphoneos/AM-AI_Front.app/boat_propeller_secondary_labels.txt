@@ -1,5 +1,0 @@
-bent_blade
-cavitation_damage
-fishing_line_wrapped
-hub_damage
-missing_blade

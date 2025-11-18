@@ -1,5 +1,0 @@
-ac_not_cooling
-duct_leak
-filter_clogged
-furnace_not_heating
-thermostat_malfunction

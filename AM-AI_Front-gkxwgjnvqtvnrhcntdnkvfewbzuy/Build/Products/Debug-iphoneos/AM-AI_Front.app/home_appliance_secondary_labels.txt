@@ -1,5 +1,0 @@
-dishwasher_leak
-dryer_not_heating
-oven_not_heating
-refrigerator_not_cooling
-washer_not_spinning

@@ -1,5 +1,0 @@
-p0128_thermostat
-p0171_lean
-p0300_misfire
-p0401_egr
-p0420_catalyst
